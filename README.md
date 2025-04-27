@@ -64,7 +64,7 @@ Responsive and clean UI layout
   }
 ]
 
-## how to install and run project
+
 
 git clone https://github.com/your-username/ai-safety.git
 (Or download the ZIP file and extract it.)

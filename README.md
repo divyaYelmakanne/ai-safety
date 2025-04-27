@@ -66,9 +66,11 @@ Responsive and clean UI layout
 
 
 
-git clone https://github.com/your-username/ai-safety.git
-(Or download the ZIP file and extract it.)
+# Quick Summary
 
-cd ai-safety
-npm install
-npm run dev
+| Step | Command |
+|:-----|:--------|
+| Clone repo | `git clone <repo-link>` |
+| Enter folder | `cd ai-safety-dashboard` |
+| Install dependencies | `npm install` |
+| Run project | `npm run dev` |

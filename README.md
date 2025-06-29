@@ -1,3 +1,23 @@
+## 📚 Table of Contents
+- [Introduction](#-introduction)
+- [Setup Instructions](#-setup-instructions)
+- [Safe Prompts](#-safe-prompts-examples)
+- [Unsafe Prompts](#-unsafe-prompts-examples)
+- [Technologies Used](#-technologies-used)
+- [Sample Output](#-sample-output)
+- [License](#-license)
+
+
+
+
+
+
+
+
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.

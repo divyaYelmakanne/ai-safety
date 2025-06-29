@@ -74,3 +74,10 @@ Responsive and clean UI layout
 | Enter folder | `cd ai-safety-dashboard` |
 | Install dependencies | `npm install` |
 | Run project | `npm run dev` |
+
+
+
+## 🧠 Introduction
+
+AI Safety is a growing field focused on ensuring AI systems behave ethically and safely.  
+This project tests whether AI-generated responses are safe or unsafe based on a set of prompts.

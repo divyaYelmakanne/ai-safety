@@ -1,3 +1,17 @@
+## 📬 Contact
+
+Created by Divya Yelmakanne.  
+GitHub: [@divyaYelmakanne](https://github.com/divyaYelmakanne)
+
+
+
+
+
+
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.

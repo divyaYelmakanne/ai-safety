@@ -66,14 +66,6 @@ Responsive and clean UI layout
 
 
 
-# Quick Summary
-
-| Step | Command |
-|:-----|:--------|
-| Clone repo | `git clone <repo-link>` |
-| Enter folder | `cd ai-safety-dashboard` |
-| Install dependencies | `npm install` |
-| Run project | `npm run dev` |
 
 
 
@@ -82,10 +74,15 @@ Responsive and clean UI layout
 
 
 
+## 🤝 Contributing
 
-## ⚙️ How It Works
+We welcome all contributions! To contribute:
+1. Fork this repo
+2. Create a new branch (`git checkout -b your-feature`)
+3. Make your changes
+4. Push and submit a Pull Request
 
-- You provide a list of prompts (e.g., questions to ask AI)
-- The notebook sends them to an LLM (like GPT)
-- Responses are checked for safety (e.g., harmful or ethical)
-- Safe vs Unsafe results are shown in output
+Please make sure your PR is specific and meaningful.
+
+
+

@@ -1,3 +1,14 @@
+## 🔗 View Notebook Online
+
+Open this notebook without downloading:  
+[View on NBViewer](https://nbviewer.org/github/divyaYelmakanne/ai-safety/blob/main/Safe_Unsafe_Examples.ipynb)
+
+
+
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.

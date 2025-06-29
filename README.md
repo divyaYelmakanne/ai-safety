@@ -74,3 +74,10 @@ Responsive and clean UI layout
 | Enter folder | `cd ai-safety-dashboard` |
 | Install dependencies | `npm install` |
 | Run project | `npm run dev` |
+
+
+## 📑 Table of Contents
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Examples](#examples)
+- [License](#license)

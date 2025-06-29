@@ -1,3 +1,8 @@
+![CI](https://github.com/divyaYelmakanne/ai-safety/actions/workflows/python-app.yml/badge.svg)
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.

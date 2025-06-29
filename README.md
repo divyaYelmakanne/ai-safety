@@ -1,3 +1,15 @@
+## 🛠️ Setup Instructions
+
+1. Install Python 3.10+
+2. Install Jupyter:
+```bash
+pip install notebook
+
+
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.
@@ -83,9 +95,4 @@ Responsive and clean UI layout
 
 
 
-## ⚙️ How It Works
 
-- You provide a list of prompts (e.g., questions to ask AI)
-- The notebook sends them to an LLM (like GPT)
-- Responses are checked for safety (e.g., harmful or ethical)
-- Safe vs Unsafe results are shown in output

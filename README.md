@@ -1,3 +1,18 @@
+## ✅ Contribution Checklist
+
+- [ ] Fork the repo
+- [ ] Create new branch
+- [ ] Make meaningful edits
+- [ ] Submit PR with title + description
+
+
+
+
+
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.

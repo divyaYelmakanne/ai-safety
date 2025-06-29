@@ -1,3 +1,13 @@
+## 🧾 Prompt Sources
+
+- User-generated inputs
+- Prompt lists from safety datasets
+- Community-contributed examples
+
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.

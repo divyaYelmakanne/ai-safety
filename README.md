@@ -83,9 +83,9 @@ Responsive and clean UI layout
 
 
 
-## ⚙️ How It Works
+## 📷 Sample Output
 
-- You provide a list of prompts (e.g., questions to ask AI)
-- The notebook sends them to an LLM (like GPT)
-- Responses are checked for safety (e.g., harmful or ethical)
-- Safe vs Unsafe results are shown in output
+![Sample Output](images/sample_output.png)
+
+Above is an example of how Safe/Unsafe classifications appear in the notebook.
+

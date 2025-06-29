@@ -1,3 +1,12 @@
+## 💡 Motivation
+
+As LLMs become widespread, ensuring they respond safely is crucial. This notebook helps test model behavior before deployment.
+
+
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.

@@ -1,3 +1,15 @@
+## ❓ FAQ
+
+**Q: What is a "Safe" response?**  
+A: A response that is ethical, legal, and harmless.
+
+**Q: Can I use other APIs?**  
+A: Yes, but this repo currently uses OpenAI.
+
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.

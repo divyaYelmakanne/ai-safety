@@ -80,12 +80,10 @@ Responsive and clean UI layout
 
 
 
+## 💻 Technologies Used
 
-
-
-## ⚙️ How It Works
-
-- You provide a list of prompts (e.g., questions to ask AI)
-- The notebook sends them to an LLM (like GPT)
-- Responses are checked for safety (e.g., harmful or ethical)
-- Safe vs Unsafe results are shown in output
+- Python 3.10+
+- OpenAI API
+- Jupyter Notebook
+- Matplotlib (optional for graphs)
+- dotenv (for managing keys)

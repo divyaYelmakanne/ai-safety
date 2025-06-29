@@ -1,3 +1,12 @@
+## ⚠️ Common Mistakes
+
+- Do not expose API keys
+- Don’t use vague PR titles like "Update README"
+- Always test notebook before committing
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.

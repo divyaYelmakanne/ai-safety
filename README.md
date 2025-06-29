@@ -1,3 +1,13 @@
+## 🔐 .env File Setup
+
+Create a `.env` file in your root folder:
+```env
+OPENAI_API_KEY=your-key-here
+
+
+
+
+
 # AI Safety Incident Dashboard
 
 This is a simple and interactive **AI Safety Incident Dashboard** built with **React**, **TypeScript**, and **CSS**.
